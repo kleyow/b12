@@ -17,4 +17,4 @@ jobs:
           python-version: '3.11'
 
       - name: Run submission script
-        run: python path/to/submit.py
+        run: python submit.py
